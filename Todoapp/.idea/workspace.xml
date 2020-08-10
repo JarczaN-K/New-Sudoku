@@ -7,154 +7,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d256e51-4833-4348-954c-3237164d6a9b" name="Default Changelist" comment="all">
-      <change afterPath="$PROJECT_DIR$/../Blog/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/src/main/java/BlogApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/src/main/java/Entity/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/src/main/java/Entity/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/src/main/java/Entity/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Blog/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/Resources/Issuers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/Issuers/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/Issuers/IssuerDetector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/Issuers/Rule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/Issuers/RuleBaseCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/JK/LuhnArrayAlgorithmVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/JK/LuhnVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/Utils/CreditCardUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/main/java/Utils/ValidationResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/test/java/JK/LuhnArrayAlgorithmVeryfierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cards/src/test/java/JK/LuhnVerifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/Resources/input.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/Resources/monsters.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Readers/CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Readers/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Readers/FileReaderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Readers/JSonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Readers/SDAFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Utils/FileConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Writers/CSVFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Writers/ExcelFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Writers/FileWriterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Writers/JsonFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Converter/src/main/java/JK/Writers/SDAFileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/Resources/Dictionary.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example1/Latitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example1/LatitudeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example1/Longitude.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example1/LongitudeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example1/Summit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example1/SummitBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example2/EmptyListException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example2/InputValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example2/MaxValueSeeker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example2/MinValueSeeker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example2/ValueSeeker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example2/ValueType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example3/FileLatinToMorseReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example3/LatinToMorseTranslator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example3/MemoryLatinToMorse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/main/java/JK/Example3/Translator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example1/LatitudeBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example1/LongitudeBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example1/SummitBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example2/MaxValueSeekerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example2/MinValueSeekerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example2/ValueSeekerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example2/ValueSeekerFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Homework2/src/test/java/JK/Example3/TranslatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/.idea/libraries/h2_1_4_199.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/main/java/BaseApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/main/java/ConnectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/main/java/MetaDataDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/main/java/MyBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/main/java/ResultSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/main/java/StatementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/Resources/person.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/Resources/persons.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/Resources/persons.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/java/Files/Jackson/JsonJacksonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/java/Files/Json/JsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/java/Files/Model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/java/Files/Model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/java/Files/Producers/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/main/java/Files/Producers/JsonProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/test/Resources/person.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JK/src/test/java/Files/Json/JsonParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/JsonNobunaga.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/main/Resources/OdaNobunaga.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/main/java/JK/Json/JsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/main/java/JK/Model/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/main/java/JK/Model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/main/java/JK/Model/Place.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/test/Resources/OdaNobunaga.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JsonNobunaga/src/test/java/JK/Json/JsonParserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SImpleServlet/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SImpleServlet/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SImpleServlet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SImpleServlet/src/main/java/SimpleServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet2/src/com/jsp/filter/AddressFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet2/src/com/jsp/filter/HeaderFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet2/src/com/jsp/servlet/DateServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet2/src/com/jsp/servlet/FormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet2/src/com/jsp/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jsp/model/Todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jsp/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jsp/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jsp/servlet/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jsp/servlet/TodoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Resources/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/navbar.jspf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/todos.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/src/main/java/ConnectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/src/main/java/Dao/Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/src/main/java/Dao/DogDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/src/main/java/Dao/DogDaoJpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/src/main/java/Entity/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Whatever/src/main/java/FindDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/main/java/ChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/main/java/ChatService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/main/java/ClientService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../server/src/main/java/SuperServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/artifacts/Todoapp_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Todoapp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.servlet.jsp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/Resources/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/classes/META-INF/Todoapp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/classes/com/jsp/model/Todo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/classes/com/jsp/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/classes/com/jsp/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/classes/com/jsp/servlet/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/classes/com/jsp/servlet/TodoServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/navbar.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/artifacts/Todoapp_war_exploded/todos.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Todoapp/META-INF/Todoapp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Todoapp/com/jsp/model/Todo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Todoapp/com/jsp/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Todoapp/com/jsp/servlet/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Todoapp/com/jsp/servlet/LogoutServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Todoapp/com/jsp/servlet/TodoServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/jsp/model/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/jsp/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/jsp/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/jsp/servlet/LogoutServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/jsp/servlet/TodoServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Resources/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/navbar.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/todos.jsp" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,98 +63,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/LoginServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/LogoutServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/todos.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/navbar.jspf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Resources/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/TodoServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jsp/model/Todo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -264,31 +73,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Todoa</find>
+      <find>Todoapp</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/jsp/servlet/WebServlet.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/servlet/Servlet.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/todo.jsp" />
-        <option value="$PROJECT_DIR$/src/model/User.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/model/model/User.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/model/User.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/model/Usser.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/servlet/LoginServlet.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/servlet/LogoutServlet.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/model/Todo.java" />
-        <option value="$PROJECT_DIR$/src/com/jsp/servlet/TodoServlet.java" />
-        <option value="$PROJECT_DIR$/web/Resources/css/styles.css" />
-        <option value="$PROJECT_DIR$/web/navbar.jspf.jsp" />
-        <option value="$PROJECT_DIR$/web/navbar.jspf" />
-        <option value="$PROJECT_DIR$/web/todos.jsp" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-      </list>
-    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -302,69 +94,19 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectId" id="1fsoyAC98ce69TJBvvCQH2roshm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Todoapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Todoapp" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -379,18 +121,6 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.jsp.servlet" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
@@ -478,12 +208,23 @@
       <workItem from="1563695774423" duration="3467000" />
       <workItem from="1563699266135" duration="16002000" />
       <workItem from="1564784220544" duration="20000" />
-      <workItem from="1564817523255" duration="236000" />
+      <workItem from="1564817523255" duration="1360000" />
+      <workItem from="1564904166151" duration="3496000" />
+      <workItem from="1564911059414" duration="2111000" />
+      <workItem from="1565213593833" duration="570000" />
     </task>
+    <task id="LOCAL-00001" summary="all">
+      <created>1564817910802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564817910802</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19725000" />
+    <option name="totallyTimeSpent" value="27026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,78 +234,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49191687" visible="true" weight="0.11649016" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.50808316" side_tool="true" weight="0.1913767" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28641573" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Web" order="5" sideWeight="0.50549453" side_tool="true" weight="0.18835099" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4945055" visible="true" weight="0.18835099" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.3289689" />
-      <window_info anchor="bottom" id="Java Enterprise" order="5" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" />
-      <window_info active="true" anchor="bottom" id="Debug" order="11" visible="true" weight="0.40425533" />
-      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="14" weight="0.3289689" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Palette" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -591,90 +260,6 @@ response.addCookie(cookie);</expression-string>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/WebServlet.java" />
-    <entry file="file://$PROJECT_DIR$/Todoapp.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/Servlet.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Resources/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/TodoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/model/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/todos.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/navbar.jspf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/LogoutServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jsp/servlet/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
